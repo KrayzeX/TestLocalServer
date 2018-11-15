@@ -1,0 +1,22 @@
+{
+  "name": "testlocalserver",
+  "version": "1.0.0",
+  "description": "First test local server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KrayzeX/TestLocalServer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KrayzeX/TestLocalServer/issues"
+  },
+  "homepage": "https://github.com/KrayzeX/TestLocalServer#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
